@@ -1,0 +1,15 @@
+Resume Builder - Sample File
+============================
+Name: John Doe
+Email: johndoe@example.com
+Phone: 123-456-7890
+
+Experience:
+- Software Engineer at TechCorp (2020-2024)
+- Junior Developer at StartupXYZ (2018-2020)
+
+Education:
+- B.S. Computer Science, State University (2018)
+
+Skills:
+- JavaScript, Python, React, Node.js
